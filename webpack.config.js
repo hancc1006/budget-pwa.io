@@ -16,7 +16,7 @@ const config = {
       background_color: "#01579b",
       theme_color:"#ffffff",
       "theme-color":"#ffffff",
-      start_url:"/",
+      start_url:"/transaction",
       icons:[{
         src:path.resolve("public/icons/icon-192x192.png"),
         sizes:[192,512],
