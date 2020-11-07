@@ -9,7 +9,7 @@ An application that tracks your budget and can be used in offline or online mode
 5. License
 
 ## Deployed Link
-Heroku Deployment:https://budget-app-100.herokuapp.com/
+[Heroku Deployment](https://budget-app-100.herokuapp.com/)
 
 ## Objective
 To make a web application that allows users to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brough back online.
@@ -23,5 +23,8 @@ To make a web application that allows users to add expenses and deposits to thei
 -Mongoose
 -HTML
 
-## Technologies
+## Screenshot
 ![alt text](https://github.com/hancc1006/budget-pwa.io/blob/main/Screenshots/Budget_Tracker.PNG?raw=true)
+
+## License
+[MIT License Used for Project](https://github.com/hancc1006/budget-pwa.io/blob/main/LICENSE?raw=false)
