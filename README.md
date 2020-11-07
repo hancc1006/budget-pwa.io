@@ -24,4 +24,4 @@ To make a web application that allows users to add expenses and deposits to thei
 -HTML
 
 ## Technologies
-![Alt text](/../main/Screenshots/Budget Tracker.png?raw=true "Budget Tracking")
+![alt text](https://github.com/hancc1006/budget-pwa.io/blob/main/Budget_Tracker.png?raw=true)
