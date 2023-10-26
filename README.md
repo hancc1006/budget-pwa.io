@@ -9,7 +9,7 @@ An application that tracks your budget and can be used in offline or online mode
 5. License
 
 ## Deployed Link
-[Heroku Deployment](https://budget-app-100.herokuapp.com/)
+[Heroku Deployment]([https://budget-app-100.herokuapp.com/](https://budget-pwa-io-08d009c3a0d2.herokuapp.com/))
 
 ## Objective
 To make a web application that allows users to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brough back online.
